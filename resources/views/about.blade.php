@@ -77,7 +77,7 @@
                         <h5>Kỹ năng</h5>
                     </div>
                     <div class="col-12">
-                        <p class="m-1">Ngôn ngữ: PHP, Python, Java, Javascript, HTML, CSS</p>
+                        <p class="m-1">Ngôn ngữ: C, Python, PHP, Java, Javascript, HTML, CSS</p>
                     </div>
                     <div class="col-12">
                         <p class="m-1">Framework: Laravel, Flask, Bootstrap, Tensorflow, Keras</p>
@@ -89,10 +89,10 @@
                         <p class="m-1">Cloud: AWS</p>
                     </div>
                     <div class="col-12">
-                        <p class="m-1">Tool: VS Code, Selenium, Postman</p>
+                        <p class="m-1">Tool: VS Code, Selenium, Postman, Github, Trello</p>
                     </div>
                     <div class="col-12">
-                        <p class="m-1">Kỹ năng phân tích và thiết kế hệ thống, thiết kế cơ sở dữ liệu</p>
+                        <p class="m-1">Khác: Phân tích và thiết kế hệ thống, thiết kế cơ sở dữ liệu, research</p>
                     </div>
                 </div>
             </div>
