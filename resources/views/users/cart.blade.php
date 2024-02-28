@@ -109,7 +109,7 @@
                 <span class="text-danger">{{ number_format($totalCart, 0, ',', '.') . ' đ' }}</span>
             </div>
             <div class="col-2 d-flex justify-content-center">
-                <button id="btnDatHang" type="button" class="btn btn-success px-4">Đặt hàng</button>
+                <a href="{{ route('payment') }}" class="btn btn-success px-4">Đặt hàng</a>
             </div>
         </div>
         <!-- end -->

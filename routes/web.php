@@ -33,6 +33,7 @@ Route::get('/detail/{productId}', [ProductsController::class, 'detail'])->name('
 Route::middleware('checkauth')->group(function () {
     Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
     Route::get('/cart', [UserController::class, 'cart'])->name('cart');
+    Route::get('/payment', [UserController::class, 'payment'])->name('payment');
     Route::get('/account', [UserController::class, 'account'])->name('account');
     Route::put('/update', [UserController::class, 'update'])->name('update');
     Route::prefix('cartitems')->group(function () {

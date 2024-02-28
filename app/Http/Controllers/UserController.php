@@ -17,6 +17,11 @@ class UserController extends Controller
         ]);
     }
 
+    public function payment()
+    {
+        return view('users.payment');
+    }
+
     public function account()
     {
         return view('users.account');
